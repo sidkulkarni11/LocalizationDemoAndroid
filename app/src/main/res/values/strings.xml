@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="english_language">English</string>
+    <string name="marathi_language">Marathi</string>
+    <string name="hindi_language">Hindi</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
